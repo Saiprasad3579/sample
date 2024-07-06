@@ -1,2 +1,1 @@
-# sample
-it  is for practice purpose
+print("hello")
